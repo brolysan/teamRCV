@@ -38,3 +38,4 @@
 0.0.0.0 fqaq3pq1o9.adobe.io
 0.0.0.0 aoorovjtha.adobe.io
 0.0.0.0 lcs-cops-stage-uw2.adobe.io
+0.0.0.0 g3y09mbaam.adobestats.io
