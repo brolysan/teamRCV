@@ -2009,4 +2009,4 @@
 0.0.0.0 3hw1y1tc.4e2id.adobestats.io
 0.0.0.0 myd1zjxo6.61y77.adobestats.io
 0.0.0.0 ngt48wsls.hzm8t.adobestats.io
-0.0.0.0 qkgyzhg03.nr94p.adobestats.i
+0.0.0.0 qkgyzhg03.nr94p.adobestats.io
