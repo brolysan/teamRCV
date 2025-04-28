@@ -2088,3 +2088,5 @@
 0.0.0.0 2jk55ruvur.lqn0m.adobestats.io
 0.0.0.0 aik8lwzx.lqn0m.adobestats.io
 0.0.0.0 xbuvoorv9.3xjvl.adobestats.io
+0.0.0.0 62o9h5jm8h.ay6tu.adobestats.io
+0.0.0.0 mgr4wfpdg8.61y77.adobestats.io
