@@ -1,4 +1,4 @@
-# derniere mise a jour: 28.04.2025
+# derniere mise a jour: 29.04.2025
 0.0.0.0 ic.adobe.io
 0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 0mo5a70cqa.adobe.io
@@ -2090,3 +2090,9 @@
 0.0.0.0 xbuvoorv9.3xjvl.adobestats.io
 0.0.0.0 62o9h5jm8h.ay6tu.adobestats.io
 0.0.0.0 mgr4wfpdg8.61y77.adobestats.io
+0.0.0.0 f83c7n4y2rb.xapgj.adobestats.io
+0.0.0.0 b56gi6a6siu.lqn0m.adobestats.io
+0.0.0.0 xaiuhd2lu97.h2uqz.adobestats.io
+0.0.0.0 dy1osurcrwm.sisww.adobestats.io
+0.0.0.0 4pjxw1h3r0fy.ay6tu.adobestats.io
+0.0.0.0 2x9mcvu4vp7l.nr94p.adobestats.io
