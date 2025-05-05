@@ -1,4 +1,4 @@
-# derniere mise a jour: 04.05.2025 8h30
+# derniere mise a jour: 05.05.2025 10h10
 0.0.0.0 ic.adobe.io
 0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 0mo5a70cqa.adobe.io
@@ -2127,8 +2127,3 @@
 0.0.0.0 1rafqqfrls.4p4bv.adobestats.io
 0.0.0.0 pg00w2w3ek.adobestats.io
 0.0.0.0 u1hps2z5d3.adobestats.io
-0.0.0.0 qtftq1s12141.lqn0m.adobestats.io
-0.0.0.0 218bokqluc.adobestats.io
-0.0.0.0 e9uqjs2kw.ay6tu.adobestats.io
-0.0.0.0 1lge6y5r3.ay6tu.adobestats.io
-0.0.0.0 43lvortnn.6u13v.adobestats.io
