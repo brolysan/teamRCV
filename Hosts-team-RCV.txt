@@ -1,4 +1,4 @@
-# derniere mise a jour: 07.05.2025 8h45
+# derniere mise a jour: 08.05.2025 12h50
 0.0.0.0 ic.adobe.io
 0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 0mo5a70cqa.adobe.io
