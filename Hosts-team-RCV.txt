@@ -1,4 +1,4 @@
-# mise a jour 07.06.2025 a 18h45
+# Mise à jour du 10.06.2025 a 11h05
 0.0.0.0 ic.adobe.io
 0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 0mo5a70cqa.adobe.io
@@ -2340,3 +2340,25 @@
 0.0.0.0 bass3ad1y.75rah.adobestats.io
 0.0.0.0 s4pun8vf9qs6.4p4bv.adobestats.io
 0.0.0.0 7s1kybhv.4p4bv.adobestats.io
+0.0.0.0 pmrur4hi81l6.4cbdo.adobestats.io
+0.0.0.0 q8yxtwetzo4n.4p4bv.adobestats.io
+0.0.0.0 0emjxfgzwl.adobestats.io
+0.0.0.0 gzuac7j2v3.adobestats.io
+0.0.0.0 h024pxgna4.adobestats.io
+0.0.0.0 ucmwg2u6r4.adobestats.io
+0.0.0.0 qxgqi7eo.3xjvl.adobestats.io
+0.0.0.0 jzvyv5bb4s.adobestats.io
+0.0.0.0 ke2kq8f4.4cbdo.adobestats.io
+0.0.0.0 14vz4h51pv.adobestats.io
+0.0.0.0 6th402k9vd.adobestats.io
+0.0.0.0 8i0054vizg.adobestats.io
+0.0.0.0 anq02vseh4.adobestats.io
+0.0.0.0 asdeb89tlw.adobestats.io
+0.0.0.0 j9u3io3m5o.adobestats.io
+0.0.0.0 l42pqhbyiz.adobestats.io
+0.0.0.0 lq5bmzx54a.adobestats.io
+0.0.0.0 rfc0kp2uon.adobestats.io
+0.0.0.0 rkgavo8qre.adobestats.io
+0.0.0.0 v62vpzg2av.adobestats.io
+0.0.0.0 vt7r4uhqaxs.mw1i8.adobestats.io
+0.0.0.0 enm4dsqo95e.4cbdo.adobestats.io
