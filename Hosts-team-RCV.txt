@@ -1,4 +1,4 @@
-# Mise a jour 12.06.2025 a 10h40
+# mise a jour 17.06.2025 a 13h00
 0.0.0.0 ic.adobe.io
 0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 0mo5a70cqa.adobe.io
@@ -2370,3 +2370,29 @@
 0.0.0.0 bfqmgwhavp.adobe.io
 0.0.0.0 95uc2ruujf.adobestats.io
 0.0.0.0 xx2k1jp7.ay6tu.adobestats.io
+0.0.0.0 3nsgevqp8w0.hzm8t.adobestats.io
+0.0.0.0 oniiajvf197.bmysp.hstatic.io
+0.0.0.0 b53weepo.4cbdo.adobestats.io
+0.0.0.0 r6ejvsun.4p4bv.adobestats.io
+0.0.0.0 1z6bybhfvu1.4cbdo.adobestats.io
+0.0.0.0 euok5ynyar.hzm8t.adobestats.io
+0.0.0.0 m97r0gd25r.bmysp.hstatic.io
+0.0.0.0 wji3ykghrm.adobestats.io
+0.0.0.0 bg88jvs3ge6.4p4bv.adobestats.io
+0.0.0.0 1z6bybhfvu.4cbdo.adobestats.io
+0.0.0.0 e4jvd3zku.hzm8t.adobestats.io
+0.0.0.0 suubjm9jc.bmysp.hstatic.io
+0.0.0.0 8umv3i8xyz.7r39q.adobestats.io
+0.0.0.0 gwfzmvq8il.4cbdo.adobestats.io
+0.0.0.0 7mj2kovom338.4cbdo.adobestats.io
+0.0.0.0 unzzx1um.hzm8t.adobestats.io
+0.0.0.0 96uc1q4y.bmysp.hstatic.io
+0.0.0.0 zpd6wzsgx.4cbdo.adobestats.io
+0.0.0.0 bydffmgkt2.adobestats.io
+0.0.0.0 p07omtw6f3.adobestats.io
+0.0.0.0 v9q5m6eo.hzm8t.adobestats.io
+0.0.0.0 6ugpzg8isz.adobestats.io
+0.0.0.0 r8y0sctr.bmysp.hstatic.io
+0.0.0.0 2m1j6e8t67.hzm8t.adobestats.io
+0.0.0.0 shkwztqn54.bmysp.hstatic.io
+0.0.0.0 6nuu61dtcx.hzm8t.adobestats.io
