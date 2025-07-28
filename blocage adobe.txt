@@ -1,4 +1,4 @@
-# mise a jour 25.07.2025 a 09h31
+# mise a jour du 28.07.2025 a 16h28
 0.0.0.0 ic.adobe.io
 0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 0mo5a70cqa.adobe.io
@@ -2536,3 +2536,5 @@
 0.0.0.0 h869ri4jsz.4p4bv.adobestats.io
 0.0.0.0 0invy96pur.adobestats.io
 0.0.0.0 apodhv2r5tmo.3xjvl.adobestats.io
+0.0.0.0 fybt8tjee.n5wo7.adobestats.io
+0.0.0.0 n3ost60ubp.4p4bv.adobestats.io
