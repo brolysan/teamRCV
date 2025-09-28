@@ -1,4 +1,4 @@
-# Last update: 2025-09-27 09:59 UTC
+# mise a jour 28.09.2025
 0.0.0.0 ic.adobe.io
 0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 fp.adobestats.io
@@ -2108,3 +2108,4 @@
 0.0.0.0 30k93c9ypp.adobestats.io
 0.0.0.0 2gwdvi8vec.xp63y.adobestats.io
 0.0.0.0 macked.app
+
