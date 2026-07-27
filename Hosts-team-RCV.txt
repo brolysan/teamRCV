@@ -1,4 +1,4 @@
-# mise a jour 25.07.2026
+# mise a jour 27.07.2026
 0.0.0.0 ic.adobe.io
 0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 fp.adobestats.io
@@ -4744,3 +4744,6 @@
 0.0.0.0 yz8yn0nr.td3wc.adobestats.io
 0.0.0.0 zpbpfbu6cpq.td3wc.adobestats.io
 0.0.0.0 zxreowyzyof.td3wc.adobestats.io
+0.0.0.0 5llohiaf7b8b.61y77.adobestats.io
+0.0.0.0 ubhkyiqkbp.xwk4b.adobestats.io
+0.0.0.0 g7os4a6l.xwk4b.adobestats.io
