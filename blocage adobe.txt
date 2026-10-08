@@ -1,5 +1,4 @@
-# mise a jour 01.10.2026
-0.0.0.0 adobe.io
+# mise a jour 08.10.2026 
 0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 crs.cr.adobe.com
 0.0.0.0 fp.adobestats.io
@@ -5692,3 +5691,5 @@
 0.0.0.0 vonunaxc.61ro5.adobestats.io
 0.0.0.0 9d6v9viz79.u0op6.adobestats.io
 0.0.0.0 ljlijiscgm.u0op6.adobestats.io
+0.0.0.0 ny052em6i.bgvqb.adobestats.io
+0.0.0.0 spmyox8k4.u0op6.adobestats.io
